@@ -16,6 +16,6 @@ h1 {
     transition: background-color 2s;
 }
 
-.cool.red {
+.cool .red {
     background-color: pink;
 }
