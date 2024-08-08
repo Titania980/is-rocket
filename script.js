@@ -1,4 +1,4 @@
-/*var car = {
+var car = {
     make: "VW",
     type: "Polo",
     color: "blue",
@@ -10,7 +10,7 @@
     }
 };
 
-console.log('hello there');*/
+console.log('hello there');
 
 var doCoolStuff = function () {
     var currentClassName =
