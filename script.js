@@ -11,3 +11,7 @@ var car = {
 };
 
 console.log('hello there');
+
+var doCoolStuff = function () {
+    document.getElementById("cool").className = "cool red";
+}
